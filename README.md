@@ -1,4 +1,4 @@
-# sea-turtle-robot
+# Sea Turtle Robot (Group 10)
 Light following sea turtle robot for Foundations of Engineering Lab Group 10
 
 Our robot detects the direction and intensity of light and uses that information to follow a light source.
